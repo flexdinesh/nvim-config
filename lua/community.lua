@@ -36,6 +36,6 @@ return {
   { import = "astrocommunity.utility.telescope-live-grep-args-nvim" },
   -- example of importing an entire language pack
   -- these packs can set up things such as Treesitter, Language Servers, additional language specific plugins, and more!
-  { import = "astrocommunity.pack.rust" },
-  { import = "astrocommunity.pack.python" },
+  -- { import = "astrocommunity.pack.rust" },
+  -- { import = "astrocommunity.pack.python" },
 }
